@@ -3,7 +3,7 @@
 
 To run the code:
 
-https://github.com/1chizhang/IPLPS.git
+git clone https://github.com/1chizhang/IPLPS.git
 
 cd IPLPS
 
